@@ -7,3 +7,5 @@ Slides: https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-20
 Video: https://www.youtube.com/watch?v=FytuB8nFHPQ
 
 ![](./landscape.png)
+
+![](./landscape-colors.png)
